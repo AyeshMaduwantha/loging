@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Model",
+    "\\Model\\DataManager",
+    "\\Model\\Repository"
+  ],
+  "SelectedNode": "\\Model\\DataManager\\UserManager.cs",
+  "PreviewInSolutionExplorer": false
+}
